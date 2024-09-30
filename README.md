@@ -1,6 +1,6 @@
-- 👋 Hola soy Gisell 👋👩🏽‍💻👩🏽‍⚕️ Ayudo a empresas a extraer insights estratégicos a través de herramientas como Python y Power BI,
-- optimizando su análisis de datos. Mi formación en el área de salud me permite integrar conocimientos técnicos y clínicos,
-- impulsando resultados significativos. Con un enfoque en la mejora continua, facilito una toma de decisiones más informada y efectiva.
+👋 Hola soy Gisell 👋👩🏽‍💻👩🏽‍⚕️ Ayudo a empresas a extraer insights estratégicos a través de herramientas como Python y Power BI,
+optimizando su análisis de datos. Mi formación en el área de salud me permite integrar conocimientos técnicos y clínicos,
+impulsando resultados significativos. Con un enfoque en la mejora continua, facilito una toma de decisiones más informada y efectiva.
 
 Data Analytics, Técnico en Enfermería y cursando 6to semestre de la carrera de Administración de Servicios de Salud. Mi experiencia
 incluye un sólido conocimiento en Data Analytics , donde he adquirido habilidades en Python,SQL Server,Power BI , Excel y Google Sheets , 
