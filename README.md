@@ -35,6 +35,7 @@
 📩 Si deseas conectarte, ¡encuéntrame en LinkedIn o envíame un correo electrónico!
 
 https://www.linkedin.com/in/gisell-mateusalba/ 
+
 gisellmateus8@gmail.com
 
 
