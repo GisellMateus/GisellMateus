@@ -40,6 +40,10 @@ o envíame un correo electrónico!
 
 gisellmateus8@gmail.com
 
+o te puedes comunicar a 
+
++57 3205984691
+
 
 # **¡Gracias por visitar mi perfil! 🌟**
 
